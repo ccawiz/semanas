@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int dia;
+    int dia: 2;  
     
     printf("Digite o número do dia da semana (1 a 7): ");
     scanf("%d", &dia);
