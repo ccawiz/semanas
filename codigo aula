@@ -28,8 +28,6 @@ int main() {
         case 7:
             printf("Domingo");
             break;
-        default:
-            printf("Dia inválido");
     }
 
     return 0;
